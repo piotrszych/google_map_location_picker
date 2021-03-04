@@ -14,13 +14,13 @@ dependencies:
 
   flutter_localizations:
     sdk: flutter
-  intl: '>=0.15.3 <=0.17.0-nullsafety.2'
+  intl: ^0.17.0
 
   google_maps_flutter: ^1.1.1
   geolocator: ^6.1.14
   android_intent: ^0.3.7+7
   provider: ^4.3.3
-  http: '>=0.12.2 <=0.13.0-nullsafety.0'
+  http: ^0.13.0
   stack_trace: ^1.9.6
   package_info: '>=0.4.0+14 <2.0.0'
 
