@@ -22,7 +22,7 @@ dependencies:
   provider: ^4.3.3
   http: ^0.13.0
   stack_trace: ^1.9.6
-  package_info: '>=0.4.0+14 <2.0.0'
+  package_info: ^2.0.0
 
 dev_dependencies:
   flutter_test:
